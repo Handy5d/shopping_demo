@@ -36,17 +36,18 @@
 - [x] 订单列表
 - [x] 订单详情
 
+
 ## 项目结构
 
-src/
-├── api/         # 接口请求
-├── assets/      # 静态资源
-├── components/  # 公共组件
-├── mixins/      # 混入
-├── router/      # 路由配置
-├── store/       # Vuex状态管理
-├── utils/       # 工具函数
-└── views/       # 页面组件
+- src/
+- ├── api/         # 接口请求
+- ├── assets/      # 静态资源
+- ├── components/  # 公共组件
+- ├── mixins/      # 混入
+- ├── router/      # 路由配置
+- ├── store/       # Vuex状态管理
+- ├── utils/       # 工具函数
+- └── views/       # 页面组件
 
 ## 项目运行
 
